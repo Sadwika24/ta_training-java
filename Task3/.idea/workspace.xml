@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfd4ca9b-c08f-4c75-9505-5cb700bf2a5a" name="Changes" comment="Implemented Solution">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/saisadwika_chinthireddy/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/saisadwika_chinthireddy/AppTest.java" afterDir="false" />
+    <list default="true" id="8f08b414-4821-42ae-baa3-34e9a4d05d29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/src/main/java/com/epam/training/saisadwika_chinthireddy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/src/main/java/com/epam/training/saisadwika_chinthireddy/PastebinPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/src/main/java/com/epam/training/saisadwika_chinthireddy/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/src/test/java/com/epam/training/saisadwika_chinthireddy/TestPastebin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +42,9 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2q7hEH4VcDUPx2xtIU4VuuRf0sD" />
+  <component name="ProjectId" id="2q7iGNdbG04xqDYpqT89yJBnsZV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
@@ -46,16 +52,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.TestPastebin.executor": "Run",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JUnit.TestOpenGoogleCloud (1).executor": "Run",
+    "JUnit.TestOpenGoogleCloud.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="TestPastebin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Task2" />
+  <component name="RunManager" selected="JUnit.TestOpenGoogleCloud (1)">
+    <configuration name="TestOpenGoogleCloud (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.epam.training.saisadwika_chinthireddy.*" />
@@ -63,7 +71,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.epam.training.saisadwika_chinthireddy" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.training.saisadwika_chinthireddy.TestPastebin" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.training.saisadwika_chinthireddy.TestOpenGoogleCloud" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOpenGoogleCloud" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOpenGoogleCloud" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,32 +88,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestPastebin" />
+        <item itemvalue="JUnit.TestOpenGoogleCloud (1)" />
+        <item itemvalue="JUnit.TestOpenGoogleCloud" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dfd4ca9b-c08f-4c75-9505-5cb700bf2a5a" name="Changes" comment="" />
-      <created>1734019407434</created>
+      <changelist id="8f08b414-4821-42ae-baa3-34e9a4d05d29" name="Changes" comment="" />
+      <created>1734019918077</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1734019407434</updated>
+      <updated>1734019918077</updated>
     </task>
-    <task id="LOCAL-00001" summary="Implemented Solution">
-      <option name="closed" value="true" />
-      <created>1734019880639</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1734019880639</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implemented Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented Solution" />
   </component>
 </project>
